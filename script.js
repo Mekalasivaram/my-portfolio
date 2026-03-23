@@ -66,7 +66,6 @@ window.addEventListener('scroll', () => {
 // Typing Effect
 const textArray = [
     "Full Stack Developer",
-    "B.Tech CSE Student",
     "Problem Solver",
     "Tech Enthusiast"
 ];
